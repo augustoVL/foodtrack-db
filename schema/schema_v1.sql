@@ -1,6 +1,0 @@
-
-CREATE DATABASE FoodTrackDB;
-GO
-
-USE FoodTrackDB;
-GO
